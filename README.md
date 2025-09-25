@@ -22,12 +22,11 @@
 ---
 
 ## 🛠 Tools & Libraries  
-- Python 🐍  
+- Python 
 - NumPy  
 - Pandas  
 - Matplotlib / Seaborn  
 - Scikit-learn  
 
 ---
-
-✍️ These codes are part of my **Machine Learning Lab coursework**.  
+ 
